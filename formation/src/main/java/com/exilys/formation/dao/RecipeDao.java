@@ -10,7 +10,6 @@ import org.hibernate.Session;
 import org.hibernate.query.Query;
 import org.springframework.stereotype.Repository;
 
-import com.exilys.formation.entity.Ingredient;
 import com.exilys.formation.entity.Recipe;
 
 @Repository
